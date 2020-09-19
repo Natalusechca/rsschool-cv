@@ -23,3 +23,21 @@ Economist in HR Department. Now I'm learning JavaScript development.
 •	npm(basic)
 •	Webpack
 •	JS frameworks: React
+
+## PROFESSIONAL EXPERIENCE:
+
+> ATB Сorporation, Dnipro, Ukraine
+
+> HR Depertment
+
+> Role: Economist
+
+#### Responsibilities:
+
+- calculation of indicators for the accrual of premiums
+- visualization of the organizational structure of enterprises in the software MS Visio
+- generation of diverse reports in Excel at the request of the manager;
+- active participation and testing in the introduction of new document circulation in the corporation
+
+
+##### Tools: HTML, CSS, JavaScript
