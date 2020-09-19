@@ -41,3 +41,15 @@ Economist in HR Department. Now I'm learning JavaScript development.
 
 
 ##### Tools: HTML, CSS, JavaScript
+
+#### EDUCATION & QUALIFICATIONS:
+
+2008-2013 Master’s degree Dnipropetrovsk State Finance Academy, Dnepropetrovsk, Ukraine.
+
+#### ENGLISH - B1
+
+#### COURSES:
+
+- English school Indigo 07.2018 - now
+- JavaScript-Developing 03.2019 - 08.2019, SkillUp
+- American English Center 
